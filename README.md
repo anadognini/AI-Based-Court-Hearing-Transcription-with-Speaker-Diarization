@@ -111,4 +111,5 @@ INPUT_PATH = Path("/kaggle/input/your-video-or-folder")
 
 # Author
 Developed by Ana Dognini
+
 Focus: AI, Data Science, and applied machine learning in real-world contexts
